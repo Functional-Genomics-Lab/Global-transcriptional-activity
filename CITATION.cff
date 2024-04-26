@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kim"
+  given-names: "Yoon Jung"
+- family-names: "Xie"
+  given-names: "Peng"
+- family-names: "Cao"
+  given-names: "Lian"
+- family-names: "Zhang"
+  given-names: "Michael Q."
+- family-names: "Kim"
+  given-names: "Tae Hoon"
+  orcid: "https://orcid.org/0000-0003-3950-7557"
+title: "Global transcriptional activity dynamics reveal functional enhancer RNAs"
+version: 28/12/1799
+doi: 10.1101/gr.233486.117
+date-released: 2018-10-23
+url: "https://github.com/Functional-Genomics-Lab/Global-transcriptional-activity"
